@@ -11,4 +11,4 @@
 
 ## Test Area
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anikk94.anikk94" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anikk94.anikk94" height="30px" />
