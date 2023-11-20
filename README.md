@@ -8,3 +8,7 @@
 - 📫 How to reach me: anikk.umd@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I like to stay up and work
+
+## Test Area
+
+<img align="right" src"https://visitor-badge.laobi.ico/badge?page_id=anikk94.anikk94" />
