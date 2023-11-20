@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anikk94.anikk94" height="30px" />
 ### Hi there 👋
 
 - 🔭 I’m currently working on USNIST ARIAC 2023 - ROS Robotics Competition
@@ -11,4 +12,3 @@
 
 ## Test Area
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anikk94.anikk94" height="30px" />
