@@ -5,12 +5,12 @@
 - 🔭 I’m currently working on
   - ARIAC 2024 - ROS Robotics Competition
   - CRCL: Canonical Robot Command Language
-  - 🏆 NIST ARIAC Contributor
 <!-- - 🌱 I’m currently learning CRCL -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: `anikk.umd@gmail.com`
+- 🏆 NIST ARIAC Contributor
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: I like to stay up -->
 
