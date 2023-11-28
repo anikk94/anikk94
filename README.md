@@ -12,6 +12,7 @@
 - 📫 How to reach me: `anikk.umd@gmail.com`
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: I like to stay up -->
+  - 🏆 NIST ARIAC Contributor
 
 ## Test Area
 
