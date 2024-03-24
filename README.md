@@ -16,3 +16,9 @@
   - `anikk@umd.edu`
 <!-- - 🏆 NIST ARIAC Contributor -->
 
+<!-- [![Anirudh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anikk94&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anikk94) -->
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=anikk94&show_icons=true&theme=dark#gh-dark-mode-only" alt="alt-text github stats"/>
+  </a>
+</p>
