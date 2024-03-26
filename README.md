@@ -1,4 +1,7 @@
 <div>
+  <h1 align="center">Anirudh Krishnan Komaralingam</h1>
+</div>
+<div>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anikk94.anikk94" height="30px" />
   <h2>Hi there 👋</h2>
 </div>
