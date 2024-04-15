@@ -19,6 +19,8 @@
 - 📫 How to reach me:
   - `anikk.umd@gmail.com`
   - `anikk@umd.edu`
+- My Site
+  - (anikk94.github.io)[https://anikk94.github.io/]
 <!-- - 🏆 NIST ARIAC Contributor -->
 
 <h2>GitHub Stats</h2>
