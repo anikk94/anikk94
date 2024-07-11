@@ -23,6 +23,14 @@
   - [anikk94.github.io](https://anikk94.github.io/)
 <!-- - 🏆 NIST ARIAC Contributor -->
 
+
+<!-- Bio -->
+<!-- div>
+  <p>
+    I want to build technology that people can interact with and in some way benefit from (the interaction). I enjoy building tools, games and interfaces that rely heavily on visual elements and interaction with visual interfaces to perform tasks, complete tasks and absorb information
+  </p>
+</div -->
+
 <h2>GitHub Stats</h2>
 <!-- [![Anirudh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anikk94&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anikk94) -->
 <p align="center">
