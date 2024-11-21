@@ -8,6 +8,8 @@
 
 
 - 🔭 I’m currently working on
+  - Robot Bin Picking Standards
+  - 3D Vision Systems for Industrial Robots
   - ARIAC 2024 - ROS(2) Robotics Competition hosted by NIST
   - Using and Improving CRCL: Canonical Robot Command Language
   - Pet Cat Detection and Tracking
